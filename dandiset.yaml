@@ -104,6 +104,7 @@ contributor:
   - dcite:Validation
   schemaKey: Person
 dateCreated: '2023-11-03T08:53:28.963969+00:00'
+datePublished: '2024-04-02T21:18:56.957752+00:00'
 description: 'Spontaneous neuronal activities were extracted from GCaMP and tagRFP
   images, covering nearly all neurons in the nematode C. elegans brain. Cell segmentation
   and tracking were performed using 3DeeCellTracker (https://github.com/WenChentao/3DeeCellTracker).
@@ -124,6 +125,18 @@ manifestLocation:
 name: Whole-brain spontaneous GCaMP activity with NeuroPAL cell ID information of
   semi-restricted worms
 protocol: []
+publishedBy:
+  endDate: '2024-04-02T21:18:56.957752+00:00'
+  id: urn:uuid:2bec0798-d6b8-49ab-a3d2-1ed6bc3b3268
+  name: DANDI publish
+  schemaKey: PublishActivity
+  startDate: '2024-04-02T21:18:56.957752+00:00'
+  wasAssociatedWith:
+  - id: urn:uuid:feefc56d-ef63-403a-9421-9057d9efb5cc
+    identifier: RRID:SCR_017571
+    name: DANDI API
+    schemaKey: Software
+    version: 0.1.0
 relatedResource: []
 repository: https://dandiarchive.org
 schemaKey: Dandiset
